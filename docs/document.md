@@ -133,12 +133,12 @@ Six machine learning algorithms were trained and evaluated, with KNN and MLP Neu
 
 ### Appendix 1: Model Performance Visualization
 
-![Model Comparison](../output/plots/model_comparison.jpg)
+![Model Comparison](images/model_comparison.jpg)
 
 ### Appendix 2: Confusion Matrices
 
-![Confusion Matrices](../output/plots/confusion_matrices.jpg)
+![Confusion Matrices](images/confusion_matrices.jpg)
 
 ### Appendix 3: Feature Importance
 
-![Feature Importance](../output/plots/feature_importance.jpg)
+![Feature Importance](images/feature_importance.jpg)
