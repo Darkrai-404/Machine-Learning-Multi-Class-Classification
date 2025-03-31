@@ -51,7 +51,3 @@ After comprehensive evaluation, the KNN and Neural Network models demonstrated s
 1. Clone this repository
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the classification model: `python code/classification_model.py`
-
-## License
-
-This project is available under the MIT License - see the LICENSE file for details.
